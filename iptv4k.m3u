@@ -49,7 +49,7 @@ http://112.17.40.140/PLTV/88888888/224/3221226758/index.m3u8
 http://39.134.176.148/PLTV/88888888/224/3221226758/index.m3u8
 #EXTINF:-1 ,CCTV-4K高码3
 http://117.148.187.83/PLTV/88888888/224/3221226758/index.m3u8
-#EXTINF:-1 ,纯享4K【公众号:手机软件资源局】
+#EXTINF:-1 ,纯享4K
 http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
 #EXTINF:-1 ,百事4K频道
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
@@ -57,9 +57,3 @@ http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 ,欢笑剧场4K
 http://39.134.39.38/PLTV/88888888/224/3221226203/index.m3u8
-#EXTINF:-1 ,广东珠江4K
-http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=79&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-#EXTINF:-1 ,珠峰基站4K
-http://117.136.154.98/PLTV/88888888/224/3221225753/index.m3u8
-#EXTINF:-1 ,精彩电影4K
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
