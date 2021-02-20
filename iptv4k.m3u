@@ -12,10 +12,17 @@ http://117.169.120.140:8080/live/cctv-15/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",BesTV 4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 ,中天新闻 FHD
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,咪咕4K
-http://39.134.52.180/PLTV/88888888/224/3221226162/index.m3u8
-#EXTINF:-1 ,广东综艺4K
-http://nclive.grtn.cn/4K/playlist.m3u8
-#EXTINF:-1 ,纯享4K频道
-http://112.50.243.8/PLTV/88888888/224/3221226825/1.m3u8
+#EXTINF:-1 ,Eurosport 4K
+http://a3569457550-zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 ,LOVE NATURE 4K UHD
+http://a3569457544-zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw20000000/playlist.m3u8
+#EXTINF:-1 ,日本Japan News 24
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1 ,日本NHK华语
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+#EXTINF:-1 ,NHK BSプレミアム
+http://203.162.235.41:16910
+#EXTINF:-1 ,NHK Eテレ
+http://203.162.235.41:16901
+#EXTINF:-1 ,NHK华语视界
+https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
