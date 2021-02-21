@@ -1,0 +1,68 @@
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/gdzy.png" group-title="4K", 广东综艺 4K
+http://player.ioioz.com/1786/gd/gdtvm3u8.php?id=gdzy
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cx4k.png" group-title="4K", 纯享4K
+http://39.134.156.15/PLTV/88888888/224/3221225670/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/4KUHD.jpeg" group-title="4K", 南国都市 4K
+http://hls222.dszbdq.cn/gdgz.php?id=gzsh
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/hxjc.png" group-title="4K",欢笑剧场 4K
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221226729/1.m3u8
+
+#EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/cx4k.png" group-title="4K",纯享4K
+http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/love4k.png" group-title="4K", 爱上4K
+http://39.134.24.220/PLTV/88888888/224/3221226005/index.m3u8
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bestv4k.png" group-title="4K", BesTV 4K
+http://112.17.40.140/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229311/01.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dox4k.png" group-title="4K", DOX 4K
+http://39.135.10.66/gz.ucdn.10086.cn/PLTV/88888888/224/3221226019/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国央视", CCTV-4K 超高清
+http://120.221.66.110/livews-4k.5club.cctv.cn/live/4K1113.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="106" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国央视", CCTV-4K 超高清
+http://112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8
+
+#EXTINF:-1 tvg-id="6562" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/hjjc.png" group-title="中国央视", CCTV 怀旧剧场 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225765/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6557" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyyy.png" group-title="中国央视", CCTV 风云音乐 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225698/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/wsjk.png" group-title="中国央视", CCTV 卫生健康 高清
+http://ikands.xyz/dl/91kds?u=0&id=wsjk&token=1216154892
+
+#EXTINF:-1 tvg-id="6563" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/bqkj.png" group-title="中国央视", CCTV 兵器科技 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225676/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6558" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dyjc.png" group-title="中国央视", CCTV 第一剧场 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225702/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="Dummy" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/dszn.png" group-title="中国央视", CCTV 电视指南 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225673/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6559" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/fyjc.png" group-title="中国央视", CCTV 风云剧场 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6000" tvg-logo="http://tv.sason.xyz/logo/cctvfyzq.png" group-title="中国央视", CCTV 风云足球 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6568" tvg-logo="http://tv.sason.xyz/logo/cctvgolf.png" group-title="中国央视", CCTV 高尔夫·网球 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6564" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/nxss.png" group-title="中国央视", CCTV 女性时尚 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225699/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6560" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/sjdl.png" group-title="中国央视", CCTV 世界地理 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225733/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6569" tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/icon/ysjp.png" group-title="中国央视", CCTV 央视文化精品 高清
+http://39.135.9.77/gz.ucdn.10086.cn/PLTV/88888888/224/3221225675/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6584" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="中国央视", CCTV 央视台球 高清
+http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8
