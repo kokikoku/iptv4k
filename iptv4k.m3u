@@ -9,7 +9,7 @@ http://117.169.120.140:8080/live/cctv-13/.m3u8
 http://117.169.120.140:8080/live/cctv-15/.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K超高清",BesTV 4K
 http://117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K超高清",欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K超高清",欢笑剧场4K1
 http://223.110.243.212/PLTV/3/224/3221227715/index.m3u8
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="4K超高清",CCTV-4K蓝码
 http://112.17.40.12/PLTV/88888888/224/3221226758/1.m3u8
@@ -25,7 +25,7 @@ http://111.12.102.68:6610/PLTV/77777777/224/3221225726/index.m3u8?
 http://112.17.40.145/PLTV/88888888/224/3221226718/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="4K超高清",爱上4K频道
 http://111.20.105.60:6060/yinhe/2/ch00000090990000001709/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K超高清",欢笑剧场4K
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="4K超高清",欢笑剧场4K2
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC高清电影
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC家庭影院
