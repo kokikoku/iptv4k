@@ -23,6 +23,8 @@ rtmp://58.200.131.2:1935/livetv/cctv9hd
 rtmp://58.200.131.2:1935/livetv/cctv10hd
 #EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央视",CCTV-12HD
 rtmp://58.200.131.2:1935/livetv/cctv12hd
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央视",CCTV-13HD
+rtmp://58.200.131.2:1935/livetv/cctv13hd
 #EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央视",CCTV-14HD
 rtmp://58.200.131.2:1935/livetv/cctv14hd
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV-1综合
