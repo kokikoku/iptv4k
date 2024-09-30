@@ -131,10 +131,6 @@ http://192.168.2.1:28600/rtp/239.69.1.90:10180
 http://192.168.2.1:28600/rtp/239.69.1.142:10488
 #EXTINF:-1 tvg-id="6602" tvg-name="先锋乒羽" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/XFBY.png" group-title="地方", 先锋乒羽	
 http://192.168.2.1:28600/rtp/239.69.1.143:10494
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="地方", 风云足球HD	
-rtsp://121.60.20.66:554/live/ch17051615120887257789.sdp?playtype=1&boid=001&backupagent=121.60.255.132:1556&clienttype=1&time=20211219105809+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1607214078&mediaid=ch17051615120887257789&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=1&stbid=00100399006068901623549359ECB57A&nodelevel=3&profilecode=&AuthInfo=cCGkEXdzjaRAjcLwzEUwIy7DTJNsuy%2BOTA%2Fw1Bk%2FNIjcF31moOq7y8nYEhBSz%2F%2FvjLm1jfs6zAC0aTeZF4KgyQ%3D%3D&bitrate=2000&distype=0
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE22.jpg" group-title="地方", 汽摩	
-rtsp://121.60.20.66:554/live/ch17051615273649055588.sdp?playtype=1&boid=001&backupagent=121.60.255.132:1556&clienttype=1&time=20211219105809+08&life=172800&ifpricereqsnd=1&vcdnid=vcdn001&userid=wh1607214078&mediaid=ch17051615273649055588&ctype=2&TSTVTimeLife=7200&contname=&authid=0&terminalflag=1&UserLiveType=1&stbid=00100399006068901623549359ECB57A&nodelevel=3&profilecode=&AuthInfo=cCGkEXdzjaRAjcLwzEUwI49BtsfiAkkZTAfgQkPjSGxEa%2FZwoB89lbMNmN8m%2F1M6jLm1jfs6zAC0aTeZF4KgyQ%3D%3D&bitrate=2000&distype=0
 #EXTINF:-1 tvg-id="6594" tvg-name="老故事" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVlaogushi.png" group-title="地方", 老故事	
 http://192.168.2.1:28600/rtp/239.69.1.85:10150
 #EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="地方", 兵器科技HD	
