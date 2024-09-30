@@ -59,8 +59,6 @@ http://192.168.2.1:28600/rtp/239.69.1.204:10866
 http://192.168.2.1:28600/rtp/239.69.1.206:10878
 #EXTINF:-1 tvg-id="1781" tvg-name="湖北生活频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/HUBEI5.png" group-title="湖北", 湖北生活HD	
 http://192.168.2.1:28600/rtp/239.69.1.205:10872
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 美嘉购物HD	
-http://192.168.2.1:28600/rtp/239.69.1.207:10884
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 武汉一套HD	
 http://192.168.2.1:28600/rtp/239.69.1.145:10506
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类", 武汉二套HD	
